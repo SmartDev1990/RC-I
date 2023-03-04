@@ -1,0 +1,38 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2022-01-26T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped Core",
+      "symbol": "WCORE",
+      "address": "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
+      "chainId": 1116,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/smartdev1990/Rice-Core-Asset/main/Assets/0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f.png"
+    },
+    {
+      "name": "Rice Token",
+      "symbol": "RICE",
+      "address": "0xA5d20d84deeEd3850a7538e993E3b2592bf997A0",
+      "chainId": 1116,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/smartdev1990/Rice-Core-Asset/main/Assets/0xA5d20d84deeEd3850a7538e993E3b2592bf997A0.png"
+    },
+    {
+      "name": "BUSD",
+      "symbol": "BUSD",
+      "address": "0xd0CE781960c6356A7175988751bfC8d7cd28EA60",
+      "chainId": 1116,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/smartdev1990/Rice-Core-Asset/main/Assets/0xd0CE781960c6356A7175988751bfC8d7cd28EA60.png"
+    }
+  ]
+}
