@@ -111,21 +111,21 @@ const config: (t: ContextApi['t'], languageCode?: string) => ConfigMenuItemsType
     icon: NftIcon,
     fillIcon: NftFillIcon,
     items: [
-      //     {
-      //       label: t('DogeChain'),
-      //       href: 'https://dogeswap.riceprotocol.org',
-      //     },
+          {
+            label: t('Docs'),
+            href: 'https://riceswap.gitbook.io/',
+          },
     ],
   },
   {
     label: t('Switch Network'),
-    href: 'https://app.riceprotocol.org',
+    href: 'https://riceprotocol.org',
     icon: NftIcon,
     fillIcon: NftFillIcon,
     items: [
       {
         label: t('Bitgert Mainnet'),
-        href: 'https://app.riceprotocol.org',
+        href: 'https://riceprotocol.org',
       },
     ],
   },

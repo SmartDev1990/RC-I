@@ -53,7 +53,7 @@ const Stats = () => {
         <IconCard>
           <StatCardContent
             headingText={t('Supply')}
-            bodyText={t('5.000.000 RICE')}
+            bodyText={t('5M on Bitgert & 5M on Core')}
             highlightColor={theme.colors.failure}
           />
         </IconCard>
